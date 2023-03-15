@@ -1,4 +1,4 @@
-**Read in other languages: [English](README.en.md), [Español](README.es.md), [Polski](README.pl.md).**
+**Read in other languages: [English](README.en.md).**
 
 # Критерії приймання
 
