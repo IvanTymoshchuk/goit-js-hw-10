@@ -51,7 +51,7 @@ Error alert
 */
 
 import './css/styles.css';
-import Notiflix from 'notiflix';
+import { Notify } from 'notiflix/build/notiflix-notify-aio';
 import debounce from 'lodash.debounce';
 import { fetchCountries } from './fetchCountries'; // Іменований імпорт
 
